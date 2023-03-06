@@ -5,3 +5,4 @@
 # 26/02/2023 LegacyFuel Hulpdiensten kunnen nu ook gebruik maken van een 'Tankpas'.
 # 05/03/2023 pma-voice Nieuwe voice erin
 # 05/03/2023 scully_radio2 Radio toegevoegd
+# 06/03/2023 logs Geoptimaliseerd 
