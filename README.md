@@ -6,3 +6,4 @@
 # 05/03/2023 pma-voice Nieuwe voice erin
 # 05/03/2023 scully_radio2 Radio toegevoegd
 # 06/03/2023 logs Geoptimaliseerd 
+# 06/04/2023 Politie auto's toegevoegd 
