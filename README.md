@@ -8,3 +8,4 @@
 # 06/03/2023 logs Geoptimaliseerd 
 # 06/04/2023 Politie auto's toegevoegd 
 # 07/04/2023 Wiet Verpak & Pluk op de map.
+# 08/04/20023 Politie & Ambulance & Brandweer in en uit dienst en hebben toegang tot hun frequenqtie anders niet meer.
