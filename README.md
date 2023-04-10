@@ -11,3 +11,4 @@
 # 08/04/20023 Politie & Ambulance & Brandweer in en uit dienst en hebben toegang tot hun frequenqtie anders niet meer.
 # 08/04/2023 Telefoon werkt weer je kan twitter in en Bellen en SMS'n.
 # 09/04/2023 NL-AmbuGarage  Ambulance Garage is gefixd!
+# 10/04/2023 fine_types Boetes aangepast ( RESTART NODIG )
