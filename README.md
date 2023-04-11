@@ -12,3 +12,5 @@
 # 08/04/2023 Telefoon werkt weer je kan twitter in en Bellen en SMS'n.
 # 09/04/2023 NL-AmbuGarage  Ambulance Garage is gefixd!
 # 10/04/2023 fine_types Boetes aangepast ( RESTART NODIG )
+# 11/04/2023 Artifacts Geupdate
+# 11/04/2023 elsplus moet het weer normaal doen.
