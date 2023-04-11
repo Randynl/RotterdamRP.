@@ -14,3 +14,4 @@
 # 10/04/2023 fine_types Boetes aangepast ( RESTART NODIG )
 # 11/04/2023 Artifacts Geupdate
 # 11/04/2023 elsplus moet het weer normaal doen
+# 11/04/2023 function-flatbed Flatbed werkt optimaal.
