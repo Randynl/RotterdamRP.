@@ -15,4 +15,4 @@
 # 11/04/2023 Artifacts Geupdate
 # 11/04/2023 elsplus moet het weer normaal doen
 # 11/04/2023 function-flatbed Flatbed werkt optimaal.
-# 11/04/2023 Righteous is uit de stad
+# 12/04/2023 esx_mechanicjob meer voertuigen in anwb voertuigenlijst
