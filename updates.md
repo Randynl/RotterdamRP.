@@ -19,4 +19,5 @@
 # 12/04/2023 esx_mechanicjob anwb kan nu ook door op 'Delete' Auto's ophalen van NPC's dit moet wel met een flatbed
 # 13/04/2023 NederlandseWegen Er zijn nu NederlandseWegen in de server
 # 13/04+2023 Wapens Taser, Carbinerifle naar Nederlands Gemaakt. ( Restart nodig ) 
-# 13/04+2023  esx_pasjesmenu je kan nu je ID & Rijbewijs geven door F9. 
+# 13/04/2023  esx_pasjesmenu je kan nu je ID & Rijbewijs geven door F9. 
+# 13/04/2023 FSL_Politie-Academie Politie heeft een academie Gebouw, dit licht gelegen op postcode 3222
