@@ -23,3 +23,4 @@
 # 13/04/2023 FSL_Politie-Academie Politie heeft een academie Gebouw, dit licht gelegen op postcode 3222
 # 15/04/2023 Brabus W140 in de cardealer, ( 75.000 ).
 # 16/04/2023 NoNPC Eruit.
+# 16/04/2023 Toyota Hilux in de cardealer ( 125.000 ).
