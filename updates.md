@@ -26,3 +26,4 @@
 # 16/04/2023 Toyota Hilux in de cardealer ( 125.000 ).
 # 14/02/2024 Rotterdam Terug Begonnen!
 # 14/02/2024 Sloten op het HB  (75%) 
+# 14/02/2024 Sloten op het HB ( Postcode 5000 ) Gefixd
