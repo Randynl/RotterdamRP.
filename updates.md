@@ -24,4 +24,5 @@
 # 15/04/2023 Brabus W140 in de cardealer, ( 75.000 ).
 # 16/04/2023 NoNPC Eruit.
 # 16/04/2023 Toyota Hilux in de cardealer ( 125.000 ).
-# 14/02/2023 Rotterdam Terug Begonnen!
+# 14/02/2024 Rotterdam Terug Begonnen!
+# 14/02/2024 Sloten op het HB  (75%) 
