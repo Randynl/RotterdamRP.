@@ -30,4 +30,5 @@
 # 14/02/2024 GLOEDNIEUWE CARPACK AMBU & POLITIE
 # 15/02/2024 Begonnen aan het Politie & ambulance spawn'rs.
 # 15/02/2024 Loadingscreen gefixd, Oude persoonen kennen hem nog :)
-# 15/02/2024 Politie & Ambulance spawners gefixd,  
+# 15/02/2024 Politie & Ambulance spawners gefixd,
+# 15/02/2024 Begonnen aan de sloten op het ziekenhuis.
