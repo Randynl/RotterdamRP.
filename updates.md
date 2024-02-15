@@ -29,4 +29,5 @@
 # 14/02/2024 Sloten op het HB ( Postcode 5000 ) Gefixd
 # 14/02/2024 GLOEDNIEUWE CARPACK AMBU & POLITIE
 # 15/02/2024 Begonnen aan het Politie & ambulance spawn'rs.
-
+# 15/02/2024 Loadingscreen gefixd, Oude persoonen kennen hem nog :)
+# 15/02/2024 Politie & Ambulance spawners gefixd,  
