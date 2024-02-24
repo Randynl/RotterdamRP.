@@ -35,3 +35,4 @@
 # 16/02/2024 Sloten op het ziekenhuis Gefixd!
 # 24/02/2024 Gemeente heeft een update, 
 # 24/02/2024 ANWB Job gefixd, ( Optimaliseerd ) 
+# 24/02/2024 Sloten op het ANWB Gebouw
