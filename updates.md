@@ -37,3 +37,5 @@
 # 24/02/2024 ANWB Job gefixd, ( Optimaliseerd ) 
 # 24/02/2024 Sloten op het ANWB Gebouw
 # 25/02/2024 Nieuwe Auto's in de cardealer, ( Sommige ook weg! ) 
+# 1/3/2024 esx_gemeentegarage Kenteken Goed gezet,
+# 1/3/2024 Weight weg gehaald bij de fitnes
