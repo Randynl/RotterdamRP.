@@ -39,3 +39,6 @@
 # 25/02/2024 Nieuwe Auto's in de cardealer, ( Sommige ook weg! ) 
 # 1/3/2024 esx_gemeentegarage Kenteken Goed gezet,
 # 1/3/2024 Weight weg gehaald bij de fitnes
+# 14/3/2024 Keybind aanpasbaar maken voor vehicle menu (menu waarmee je deuren, kofferbak en motorkap mee kan openen)
+# 14/3/2024 politie kan weer in beslag nemen!.
+
